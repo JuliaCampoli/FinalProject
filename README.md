@@ -3,6 +3,7 @@
 ## Goals
 - [Frontend website that displays recipes based on holidays](https://github.com/JuliaCampoli/FinalProject/issues/1)
 - [Set up spreadsheet based BE that will display info on the frontend website dynamically](https://github.com/JuliaCampoli/FinalProject/issues/2)
+- [Get FE to reflect the dynamic data from airtable](https://github.com/JuliaCampoli/FinalProject/issues/3)
 
 ## Tools
 
